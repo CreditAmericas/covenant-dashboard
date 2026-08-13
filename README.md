@@ -1,2 +1,2 @@
-# covenant-dashboard
+# index.html
 Rating Covenant validation
